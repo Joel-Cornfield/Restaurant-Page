@@ -4,7 +4,7 @@ A restaurant page website made using HTML, CSS, and JavaScript as part of The Od
 
 ## Website Link
 
-[Link to your website](https://joel-cornfield.github.io/Restaurant-Page/)
+[Link to Website](https://joel-cornfield.github.io/Restaurant-Page/)
 
 ## Built using:
 - HTML
